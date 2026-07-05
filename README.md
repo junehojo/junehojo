@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+Product Designer specializing in 0-to-1 product development with strong visual craftsmanship. Expert in de-risking complex ideas through high-fidelity prototyping and emerging tech (XR/AI).
+
+Bridging the gap between Human-Computer Interaction and Gen-AI (LLM/RAG). I navigate the full product lifecycle—from defining strategies and team building to crafting award-winning experiences. My expertise spans SaaS, spatial computing (visionOS), and validated product launches.
+
+Alongside my professional role, I lead XREAL, Korea's largest XR-AI community for researchers and builders, where I play a pivotal role in setting the organization's vision, fostering interdisciplinary collaboration, and redefining researcher identities.
+
+
 <!--
 **junehojo/junehojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
