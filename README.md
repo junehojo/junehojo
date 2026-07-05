@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Junho Cho 👋
 
 Product Designer & Builder specializing in 0-to-1 product development with strong visual craftsmanship. Expert in de-risking complex ideas through high-fidelity prototyping and emerging tech (XR/AI).
 
