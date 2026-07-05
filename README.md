@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Product Designer specializing in 0-to-1 product development with strong visual craftsmanship. Expert in de-risking complex ideas through high-fidelity prototyping and emerging tech (XR/AI).
+Product Designer & Builder specializing in 0-to-1 product development with strong visual craftsmanship. Expert in de-risking complex ideas through high-fidelity prototyping and emerging tech (XR/AI).
 
 Bridging the gap between Human-Computer Interaction and Gen-AI (LLM/RAG). I navigate the full product lifecycle—from defining strategies and team building to crafting award-winning experiences. My expertise spans SaaS, spatial computing (visionOS), and validated product launches.
 
